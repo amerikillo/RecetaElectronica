@@ -13,9 +13,6 @@
     </head>
     <body>
         <h1>Hola World!</h1>
-		<p>
-                    El primer parrafo guapo<br>
-                    Perrote js 1213
-		</p>
+		
     </body>
 </html>
