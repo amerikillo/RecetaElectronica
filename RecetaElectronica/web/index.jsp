@@ -14,7 +14,7 @@
     <body>
         <h1>Hola World!</h1>
 		<p>
-		El primer parrago guapo
+		El primer parrafo guapo
 		</p>
     </body>
 </html>
