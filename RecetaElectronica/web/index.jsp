@@ -13,9 +13,6 @@
     </head>
     <body>
         <h1>Hola World!</h1>
-        <p>
-            Hola a todos!!
-            :)
-        </p>
+        
     </body>
 </html>
