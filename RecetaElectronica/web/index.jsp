@@ -9,10 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Receta Electronica</title>
     </head>
     <body>
-        <h1>Hola World!</h1>
-        Aramita es 
+        <h1>Pagina de Receta Electronica</h1>
     </body>
 </html>
