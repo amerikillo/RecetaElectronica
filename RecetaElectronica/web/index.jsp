@@ -13,5 +13,10 @@
     </head>
     <body>
         <h1>Pagina de Receta Electronica</h1>
+        <p>
+            Pagina principal del sistema de receta electronica<br>
+            A partir de aqui haremos todo el show pero con las<br>
+            nuevas tecnicas de programación.
+        </p>
     </body>
 </html>
