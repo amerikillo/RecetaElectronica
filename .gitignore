@@ -1,2 +1,6 @@
 /RecetaElectronica/dist/
 /RecetaElectronica/build/
+/RecetaElectronica/dist/web/
+RecetaElectronica/build/web/index.jsp
+
+*.jsp
